@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="108"
+   height="108"
+   viewBox="0 0 108 108"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/tanoabeleyra/dev/mi-chacabuco/app/assets/icon.png"
+   inkscape:export-xdpi="910.21997"
+   inkscape:export-ydpi="910.21997">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="15.782427"
+     inkscape:cy="53.964476"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     scale-x="1.4"
+     inkscape:pagecheckerboard="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.078127,-250.01954)">
+    <rect
+       style="fill:#0091ea;fill-opacity:1;stroke:none;stroke-width:1.70056319;stroke-opacity:1"
+       id="rect934"
+       width="108"
+       height="108"
+       x="16.078127"
+       y="250.01955" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.41726303px;line-height:1.25;font-family:Handlee;-inkscape-font-specification:Handlee;letter-spacing:0px;word-spacing:0px;fill:#3f51b5;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="44.847775"
+       y="315.57684"
+       id="text819-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan817-3-5"
+         x="44.847775"
+         y="315.57684"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.49239731px;font-family:Sarina;-inkscape-font-specification:Sarina;letter-spacing:0.51738602px;fill:#3f51b5;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">M</tspan></text>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:8.46666616, 4.23333308;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815"
+       cx="100.54167"
+       cy="197.21428"
+       r="95.627968" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.41726303px;line-height:1.25;font-family:Handlee;-inkscape-font-specification:Handlee;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="43.812851"
+       y="314.54208"
+       id="text819-4"><tspan
+         sodipodi:role="line"
+         id="tspan817-3"
+         x="43.812851"
+         y="314.54208"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.49239731px;font-family:Sarina;-inkscape-font-specification:Sarina;letter-spacing:0.51738602px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">M</tspan></text>
+    <circle
+       style="fill:#3f51b5;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path827"
+       cx="94.398041"
+       cy="303.02924"
+       r="3.6800842" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path827-6"
+       cx="93.273178"
+       cy="302.51169"
+       r="3.6800842" />
+  </g>
+</svg>
